@@ -1,0 +1,25 @@
+{
+    "import": {
+        "macro.bkscr": 0
+    },
+    "name": "tutorial",
+    "script": {
+        "main.bkscr": 0
+    },
+    "source": {
+        "images": {
+            "bg": {
+            },
+            "character": {
+                "a_happy.png": 0
+            }
+        },
+        "sound": {
+            "tam-n01.ogg": 0
+        },
+        "ui": {
+            "textwindow.png": 0
+        }
+    },
+    "version": "1.2"
+}
